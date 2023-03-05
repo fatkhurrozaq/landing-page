@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("sample_pipeline") {
             steps {
-                echo("build_pipeline_new")
+                echo("build_pipeline_revision")
             }
         } 
         
